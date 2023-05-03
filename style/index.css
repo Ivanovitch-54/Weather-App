@@ -1,0 +1,12 @@
+.responseDiv {
+    display: none;
+}
+
+.responseDiv.shown {
+    display: block;
+    border: 1px solid blue;
+}
+
+body {
+    
+}
